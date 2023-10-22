@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="customBNVBackColor" format="color" />
+    <attr name="customIcon" format="color" />
+    <attr name="customFont" format="color" />
+    <attr name="customButton" format="color" />
+</resources>

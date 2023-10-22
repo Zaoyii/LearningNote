@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LearningNote</string>
+    <string name="login_welcome">WELCOME BACK!</string>
+    <string name="alert_login">Sign in to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_forget">Forgot password?</string>
+    <string name="login_button">Go</string>
+    <string name="login_sign_up">No user? Sign Up!</string>
+    <string name="title_note">Note</string>
+    <string name="title_pic">Picture</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Description">Description</string>
+    <string name="note_alter">There are %s notes.</string>
+    <string name="item_username">Username</string>
+    <string name="item_slogan">This is my slogan@!!!!!!</string>
+    <string name="item_time">2028-8-8 14:32</string>
+    <string name="item_title">Title</string>
+    <string name="item_content">ContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContent</string>
+    <string name="item_delete">Delete</string>
+    <string name="note_length">%d words</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="no_note">There is nothing!</string>
+</resources>
